@@ -1,2 +1,2 @@
 # TheAnalogClock
-An digital analog clock
+A digital analog clock
